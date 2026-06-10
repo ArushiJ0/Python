@@ -17,4 +17,5 @@ We can also use * to unpack in from of groups
 
 ### Key Takeaways -
 
-- Conversion of tuple to list or vice versa can be done. If we need to make changes to the tuple convert it to list, make changes then convert it back to tuple
+- Conversion of tuple to list or vice versa can be done. If we need to make changes to the tuple convert it to list, make changes then convert it back to tuple.
+- ‘’.join() method is used to join elements of tuple.
