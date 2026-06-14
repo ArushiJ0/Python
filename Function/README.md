@@ -18,3 +18,5 @@ return
 ### Key Takeaways -
 
 - not any is used when we need to check if no true values are there
+- Recursion is using the function inside the same function
+- import re this is used for finding patterns
