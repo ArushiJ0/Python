@@ -4,6 +4,7 @@ Class is a blueprint for creating objects. Object is a real instance
 
 class class_name:
      def __init__(self, attribute):         //constructor 
+     
      self.attribute = attribute      //instance_vaiable 
      
 object_name = class_name()    //creating object
