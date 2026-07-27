@@ -32,9 +32,9 @@ Method Overriding - when a child class inherits a parent class, the method in pa
 
 - self keyword is used to refer to the current object.
 - Instance variable is used for objects whereas local variable is used in functions or methods.
-- - To make attributes private add __ before the attribute name.
+- To make attributes private add __ before the attribute name.
 - In method, when referring to a class data we ‘cls’ instead of self .
-- Inheritance of class - class_name(parent_class_name); t also uses super() keyword to class the parent class constructor to inherit the attributes.
+- Inheritance of class - class_name(parent_class_name);It uses super() keyword which inherits the attributes of the parent class. 
 - __add__ is a special method which is automatically called if + operator is used.
 - __enter__ & __exit__ are special method automatically called when ‘with’ statements are used.
 - Method chaining is calling one method after another on same object with using self as return.
